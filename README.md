@@ -17,3 +17,9 @@ The main purpose is to familar with some Keras features:
 - `fit_generator` for training Keras a model using Python data generators
 - `ImageDataGenerator` for real-time data augmentation
 - `layer freezing and` model fine-tuning
+
+`real_time_face_detector.ipynb` shows some examples how to apply the trained model from `FineTune_and_Data_Augmentation.ipynb` to achieve rea-time image classification
+- static capture the face from image
+- object detction from the video
+- real-time face detection
+
