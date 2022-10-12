@@ -18,7 +18,8 @@ the outline will go as follows:
 - object detction from the video
 - real-time face detection
 
-<img src='./example_imgs/video_record_example'>
+<img src='./example_imgs/video_record_example.jpg'>
+
 
 
 
