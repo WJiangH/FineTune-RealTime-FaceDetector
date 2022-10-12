@@ -4,7 +4,7 @@ It present a few simple yet effective methods that you can use to build a powerf
 
 ## Main files
 
-`FineTune_and_Data_Augmentation.ipynb` includes the main classifcation code. 
+**`FineTune_and_Data_Augmentation.ipynb`** includes the main classifcation code. 
 
 the outline will go as follows:
 - collection data from the kaggle [cats_and_dogs](https://www.kaggle.com/c/dogs-vs-cats/data) and use only 2800 data points, where `2000` for training and validation and `800` for validation. we also use extra `400` for testing
@@ -18,7 +18,7 @@ The main purpose is to familar with some Keras features:
 - `ImageDataGenerator` for real-time data augmentation
 - `layer freezing and` model fine-tuning
 
-`real_time_face_detector.ipynb` shows some examples how to apply the trained model from `FineTune_and_Data_Augmentation.ipynb` to achieve rea-time image classification
+**`real_time_face_detector.ipynb`** shows some examples how to apply the trained model from **`FineTune_and_Data_Augmentation.ipynb`** to achieve rea-time image classification
 - static capture the face from image
 - object detction from the video
 - real-time face detection
