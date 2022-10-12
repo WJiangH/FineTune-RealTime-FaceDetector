@@ -18,7 +18,11 @@ the outline will go as follows:
 - object detction from the video
 - real-time face detection
 
+here is an example that load the video from movie `cats and dogs` and detect the objects shown in the video and classify it.
 <img src='./example_imgs/video_record_example.jpg'>
+
+This is the real-time object detection on webcam image that distinguish my cat
+<img src='./example_imgs/real_time_record_example.jpg'>
 
 
 
