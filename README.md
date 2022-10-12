@@ -13,6 +13,8 @@ the outline will go as follows:
 - using the bottleneck features of a pre-trained network
 - fine-tuning the top layers of a pre-trained network
 
+In this script, one could reduce the overfitting problem by using the aformentioned strategies, which is veryful when dealing with the insufficient data.
+
 **`real_time_face_detector.ipynb`** shows some examples how to apply the trained model from **`FineTune_and_Data_Augmentation.ipynb`** to achieve rea-time image classification. 
 - static capture the face from image
 - object detction from the video
